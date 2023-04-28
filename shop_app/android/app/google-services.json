@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964852220696",
+    "project_id": "shopali-a01bd",
+    "storage_bucket": "shopali-a01bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964852220696:android:c3b31f70d2c15fc579d46d",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964852220696-q47dpvi2crcmop1efp1u941fik3bpf6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5-JmxGOj5prFx5msxhUC6MfUlk4AoaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964852220696-q47dpvi2crcmop1efp1u941fik3bpf6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
